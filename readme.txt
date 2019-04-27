@@ -6,13 +6,4 @@ tessdass
 2523
 sadsads
 
-sadsadas
 
-
-:wq!
-131313
-
-
-
-123456789
-88888
