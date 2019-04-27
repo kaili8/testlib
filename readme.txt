@@ -6,8 +6,4 @@ tessdass
 2523
 sadsads
 
-<<<<<<< HEAD
-12345
-=======
-12345
->>>>>>> test
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
